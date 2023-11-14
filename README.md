@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello world, I'm Alya 👋</h1>
+  <h3>Welcome to my GitHub profile!</h3>
+  <br>
+  [![Linkedin Badge](https://img.shields.io/badge/-alyamf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alyamf/)
+
+</div>
+
 
 <!--
 **alyamutiara/alyamutiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
