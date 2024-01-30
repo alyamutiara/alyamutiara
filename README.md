@@ -15,6 +15,7 @@
 - 🔖 AWS Solution Architect Associate and Microsoft Azure Fundamentals Certified.
 - ⚡ Funfact: I like to read and join webinars.
 
+Please check my <a href="https://github.com/alyamutiara/DataAnalyst-Portfolio">Data Analyst Portfolio</a> here.
 
 <!--
 **alyamutiara/alyamutiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
