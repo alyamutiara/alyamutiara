@@ -10,7 +10,7 @@
 
 My fascination with data began during my undergraduate thesis, where I analyzed thousands of radiotherapy dose data points for lung cancer patients. Identifying patterns and extracting insights from this complex data ignited my passion for data analysis and its potential to improve healthcare outcomes.
 
-While building and managing cloud infrastructure for a web-hosting agency as a Cloud Engineer for over three years, I honed my skills in data pipelines, automation, and cloud platforms. I leveraged these skills to develop a database alongside the web server and application server for a three-tier infrastructure, optimize operational performance through data analysis, and gain valuable insights into user behavior.
+While building and managing cloud infrastructure for a web-hosting agency as a Cloud Engineer for over three years, I honed my skills in database management, automation, and cloud platforms. I leveraged these skills to develop a database alongside the web server and application server for a three-tier infrastructure, optimize operational performance through data analysis, and gain valuable insights into user behavior.
 
 Since graduating in October 2023, I've been actively pursuing my data analysis aspirations. Through Career Class, I've broadened my personal and professional development, while a self-paced Datacamp bootcamp has equipped me with proficiency in spreadsheets, SQL, Python, Tableau, and other data analysis tools. I'm actively building my data portfolio and am eager to apply my skills and cloud engineering expertise to solve real-world problems and drive data-driven decision-making in your organization.
 
@@ -19,7 +19,7 @@ Since graduating in October 2023, I've been actively pursuing my data analysis a
 - 💻 Have worked as a cloud engineer but aspire to work in the data field.
 - 🔬 Currently exploring SQL, Python, Power BI, and Tableu.
 - 🔖 AWS Solution Architect Associate and Microsoft Azure Fundamentals Certified.
-- ⚡ Fun fact: I like to read and join classed.
+- ⚡ Fun fact: I like to read and join classes.
 
 ### Portfolio
 Please check my <a href="https://github.com/alyamutiara/DataAnalyst-Portfolio">Data Analyst Portfolio</a> here.
