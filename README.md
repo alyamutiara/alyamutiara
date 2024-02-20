@@ -20,17 +20,14 @@ An ex-Cloud Engineer turned to Data Professional. Graduated from master program 
 ### Portfolio
 Please check my <a href="https://github.com/alyamutiara/DataAnalyst-Portfolio">Data Analyst Portfolio</a> here.
 
-<!--
-**alyamutiara/alyamutiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=alyamutiara&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyamutiara&show_icons=true&locale=en&theme=gruvbox&layout=compact&hide_border=true" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=alyamutiara&label=Profile%20views&color=0e75b6&style=flat"
+    alt="alyamutiara" /> 
+</p>
