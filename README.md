@@ -8,7 +8,7 @@
   
 </div>
 
-An ex-Cloud Engineer turned to Data Professional. Graduated from master program in Computational Science at Institut Teknologi Bandung. Currently passionate in pursuing career in the data field through self-paced study and getting my hands dirty with projects. I'm excited to bring my A-game to the data table and learn from every obstacle I encounter!
+An ex-Cloud Engineer turned to Data Professional. Graduated from master's program in Computational Science at Institut Teknologi Bandung. Currently passionate about pursuing a career in the data field through self-paced study and getting my hands dirty with projects. I'm excited to bring my A-game to the data table and learn from every obstacle I encounter!
 
 ### About Me:
 - 👩‍🎓 I studied physics and computational science but somewhat ended up in IT.
@@ -18,7 +18,7 @@ An ex-Cloud Engineer turned to Data Professional. Graduated from master program 
 - ⚡ Fun fact: I like to read and join classes.
 
 ### Portfolio
-Please check my <a href="https://github.com/alyamutiara/DataAnalyst-Portfolio">Data Analyst Portfolio</a> here.
+Please check my <a href="https://github.com/alyamutiara/Data-Portfolio">Data Portfolio</a> here.
 
 <p align="center">
   <a>
