@@ -8,7 +8,7 @@
   
 </div>
 
-An ex-Cloud Engineer turned to Data Professional. Graduated from master's program in Computational Science at Institut Teknologi Bandung. Currently passionate about pursuing a career in the data field through self-paced study and getting my hands dirty with projects. I'm excited to bring my A-game to the data table and learn from every obstacle I encounter!
+Hi, I’m a Data Engineer with a background in Cloud Engineering and a Master’s in Computational Science from Institut Teknologi Bandung. I love working with data—building pipelines, wrangling datasets, and turning raw info into something useful. These days, I’m focused on making data more accessible and reliable through hands-on projects. Always curious, always learning, and always up for a good data challenge!
 
 ### About Me:
 - 👩‍🎓 I studied physics and computational science but somewhat ended up in IT.
