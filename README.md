@@ -11,10 +11,10 @@
 Hi, I’m a Data Engineer with a background in Cloud Engineering and a Master’s in Computational Science from Institut Teknologi Bandung. I love working with data—building pipelines, wrangling datasets, and turning raw info into something useful. These days, I’m focused on making data more accessible and reliable through hands-on projects. Always curious, always learning, and always up for a good data challenge!
 
 ### About Me:
-- 👩‍🎓 I studied physics and computational science but somewhat ended up in IT.
-- 💻 Have worked as a cloud engineer but my dream career is becoming a data professional.
-- 🔬 Currently exploring SQL, Python, Power BI, and Tableu.
-- 🔖 AWS Solution Architect Associate and Microsoft Azure Fundamentals Certified.
+- 👩‍🎓 I studied physics and computational science, but somewhat ended up in IT.
+- 💻 Have worked as a cloud engineer, but my dream career is becoming a data architect.
+- 🔬 Currently exploring Data Management, Data Architecture, and Data Governance.
+- 🔖 AWS Data Engineer Associate, AWS Solution Architect Associate, and Microsoft Azure Fundamentals Certified.
 - ⚡ Fun fact: I like to read and join classes.
 
 ### Portfolio
