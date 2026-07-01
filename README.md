@@ -22,8 +22,8 @@ Please check my <a href="https://github.com/alyamutiara/Data-Portfolio">Data Por
 
 <p align="center">
   <a>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=alyamutiara&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyamutiara&show_icons=true&locale=en&theme=gruvbox&layout=compact&hide_border=true" />
+  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=alyamutiara&show_icons=true&theme=radical&hide_border=true" />
+  <img width="38%" src="https://github-stats-extended.vercel.app/api/top-langs?username=alyamutiara&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=true" />
   </a>
 </p>
 
