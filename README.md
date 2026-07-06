@@ -12,13 +12,13 @@ Hi, I’m a Data Engineer with a background in Cloud Engineering and a Master’
 
 ### About Me:
 - 👩‍🎓 I studied physics and computational science, but somewhat ended up in IT.
-- 💻 Have worked as a cloud engineer, but my dream career is becoming a data architect.
-- 🔬 Currently exploring Data Management, Data Architecture, and Data Governance.
+- 💻 Have worked as a cloud engineer, but my dream career is becoming a principal data engineer.
+- 🔬 Currently exploring Data Management, Data Architecture, Data Governance, and the ever-growing modern data stack.
 - 🔖 AWS Data Engineer Associate, AWS Solution Architect Associate, and Microsoft Azure Fundamentals Certified.
 - ⚡ Fun fact: I like to read and join classes.
 
 ### Portfolio
-Please check my <a href="https://github.com/alyamutiara/Data-Portfolio">Data Portfolio</a> here.
+Please check my <a href="https://alyamutiara.github.io">Data Portfolio</a> here.
 
 <p align="center">
   <a>
